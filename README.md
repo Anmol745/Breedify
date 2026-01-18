@@ -128,4 +128,9 @@ separation
 5.Expansion to other livestock (buffalo, goats, etc.)
 ✔️ Real-world agriculture & livestock use case
 
+**👨‍💻 Author**
+[Anmol Sharma]
+B.Tech Student | AI & ML Enthusiast
+Creator of Breedify!!
+
 ✔️ Clean dataset separation
