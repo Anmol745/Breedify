@@ -132,5 +132,3 @@ separation
 [Anmol Sharma]
 B.Tech Student | AI & ML Enthusiast
 Creator of Breedify!!
-
-✔️ Clean dataset separation
