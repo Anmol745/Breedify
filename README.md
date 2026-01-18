@@ -9,10 +9,12 @@ Breedify works in two sequential stages:
 
 Model_A (Cattle vs Non-Cattle Detection)
 Filters input images to determine whether they contain cattle or not.
+**(You can download model_a.ipynb file to see the code in jupyter notebbook)**
 
 Model_B (Cattle Breed Classification)
 Once an image is confirmed as cattle, it is passed to a multi-class model that classifies the cattle into one of 35 different breeds.
-
+**(You can download modelb.ipynb file to see the code in jupyter notebbook)
+**
 Both models are trained using EfficientNet (EfficientNet-B series) for high performance with optimized computational cost.
 
 **🧠 Why Two Models?**
